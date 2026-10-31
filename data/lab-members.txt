@@ -1,0 +1,15 @@
+# Current and former lab members, bolded in publication author lists.
+# One per line as "Last, First". Matching uses last name + first initial.
+Arnold, T. Elliott
+Arnold, Elliott
+Ashman, Isabella
+Simpson, James
+Mattie, Chloe
+Sidhu, Kenny
+Rathman, Lilah
+Lipka, Meagan
+Costa, Sydney
+Lane, Parker
+Letherer, Dillon
+Mero, Emily
+Powell, Michael

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 32" width="24" height="32">
+  <!-- Arnold Geochemistry Lab mark: a sediment core with uneven layers -->
+  <defs>
+    <clipPath id="core"><rect x="2" y="1" width="20" height="30" rx="4"/></clipPath>
+  </defs>
+  <g clip-path="url(#core)">
+    <rect x="0" y="0"  width="24" height="7"  fill="#2e6b4a"/>
+    <path d="M0 7 Q12 5.8 24 7.4 V10 H0Z"   fill="#d9c9a3"/>
+    <path d="M0 10 Q10 11 24 9.6 V15 H0Z"   fill="#8a5a3b"/>
+    <path d="M0 15 Q14 14 24 15.6 V17 H0Z"  fill="#e8dcc0"/>
+    <path d="M0 17 Q9 18.2 24 16.8 V22 H0Z" fill="#4f8a68"/>
+    <path d="M0 22 Q13 21 24 22.5 V24 H0Z"  fill="#b89a6e"/>
+    <path d="M0 24 Q11 25 24 23.8 V32 H0Z"  fill="#5c3d2a"/>
+  </g>
+  <rect x="2" y="1" width="20" height="30" rx="4" fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="1"/>
+</svg>
