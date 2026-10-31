@@ -1,12 +1,13 @@
 # Original source files: full-size photos, publisher PDFs, draft text.
 # The site uses the processed copies in assets/ instead.
-images/
-publications/
-text/
+# Leading "/" = only the top-level folder (Windows ignores case, so "PI/" alone would also hide assets/pi/).
+/images/
+/publications/
+/text/
 
 __pycache__/
-PI/
-active projects/
+/PI/
+/active projects/
 
 # Private notes and records kept off the public repository
 # (GitHub Pages would make them readable by anyone).
