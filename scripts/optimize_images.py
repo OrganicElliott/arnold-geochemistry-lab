@@ -42,6 +42,8 @@ FOCUS = {
     "emily-mero":    (0.48, 0.35, 0.6),
     "parker-lane":   (0.50, 0.33, 0.65),
     "michael-powell": (0.38, 0.17, 0.65),
+    "kelly-edmunds": (0.49, 0.42, 0.8),
+    "kate-frederick": (0.47, 0.36, 0.6),
     # project photos (zoom is ignored; they are cropped to their folder's shape)
     "peten-itza":    (0.50, 0.37, 1.0),
 }
